@@ -1,0 +1,22 @@
+MDI  多文档--文本编辑器
+2015.11~2016.5
+
+主要使用  Java Swing[界面]、Java IO[读写文件]，
+撤销编辑，查找。
+
+
+Author:my.csdn.net/ljheee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
